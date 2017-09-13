@@ -4,13 +4,16 @@
   "description": "draftjs inline toolbar test",
   "main": "index.js",
   "scripts": {
+    "compile": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "kanwaramit92@gmail.com",
   "dependencies": {
     "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
     "babel-preset-latest": "^6.24.1",
-    "babel-preset-react": "^6.24.1"
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^3.5.6"
   }
 }

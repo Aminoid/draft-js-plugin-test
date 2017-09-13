@@ -5,3 +5,8 @@ This Repo hosts a test for draft-js-inline-plugin
 ```
 npm install
 ```
+
+## Compile
+```
+npm run compile
+```
