@@ -10,3 +10,8 @@ npm install
 ```
 npm run compile
 ```
+
+## Start the development Server
+```
+npm start
+```
